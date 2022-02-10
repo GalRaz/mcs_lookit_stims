@@ -1,1 +1,4 @@
-/scenarios/
+
+# ignore video directories
+scenarios/
+shari_stim/fmri/
