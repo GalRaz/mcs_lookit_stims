@@ -1,3 +1,4 @@
 
 # ignore video directories
 shari_stim/fmri/
+/scenarios_backup/
